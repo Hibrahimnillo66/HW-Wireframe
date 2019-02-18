@@ -13,22 +13,27 @@ body{
 }
 
 header{
-    background-color: lightgrey;
-    margin-top: auto;
-    padding-top: 0;
+    background-color: #ebebeb;
+    clear: both;
+    margin-top: -10px;
+}
+
+
+#navigation { 
+    background-color: #ebebeb;
+    margin-top: -10px;
     
 }
 
-#Navigation{
-    background-color: lightgray;
-}
+
 
 #Section{
-    background-color: lightgray;
+    background-color: #ebebeb;
     width: 57%;
     float: left;
-    height: 250px;
+    height: 290px;
     clear: both;
+    line-height:50px;
     
     
    
@@ -36,26 +41,26 @@ header{
 }
 
 #Aside{
-    background-color: lightgray;
+    background-color: #ebebeb;
     width: 41%;
     float: right;
-    height: 250px;
+    height: 290px;
+    line-height: 50px;
 }
 
 #Footer{
-    background-color: lightgray;
-    margin-top: 280px;
+    background-color:#ebebeb;
+    margin-top: 320px;
 }
 
 #article{
     background-color: gray;
-    color: lightgrey;
-    width: 520px;
-    height: 120px;
+    color: #ebebeb;
+    width: 500px;
+    height: 170px;
     margin:auto;
-    line-height: 40px;
-    clear: both;
-    
+    line-height: 0;
+    padding: 10px;
     
     
     
@@ -63,23 +68,26 @@ header{
 }
 
 #article2{
-    background-color: lightgrey;
+    background-color: #ebebeb;
     color: grey;
     width: 95%;
-    line-height: 20px;
+    line-height: 25px;
+    padding: 1px;
     margin: auto;
-    clear: both;
-    
+    font-size: 16px;
+    margin-top: 20px;
     }
 
 #article3{
-    background-color: lightgrey;
+    background-color: #ebebeb;
     color: grey;
     width: 95%;
-    line-height: 20px;
+    line-height: 25px;
+    padding: 1px;
     margin: auto;
-    clear: both;
+    margin-top: 10px;
+    
+    
 }
-
 
 
